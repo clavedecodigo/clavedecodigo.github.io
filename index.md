@@ -6,20 +6,20 @@ Bienvenido a mi colección de cuadernos. Para acceder a uno de ellos, pulsa sobr
 
 
 
-<a href="https://clavedecodigo.github.io/creandoestesitio/"><img src="enlace.png" alt="Clave de código" style="float:right"></a>
+<a href="https://cuadernosdenotas.github.io/creandoestesitio/"><img src="enlace.png" alt="Cuadernos de notas" style="float:right"></a>
 ## creando este sitio web
 
 *GitHub* es una plataforma concebida para alojar proyectos de sotware que queremos compartir. Sirve para muchos propósitos, desde la posibilidad de guardar tus documentos en la red, hasta la coordinación de proyectos desarrollados por varios usuarios que trabajan en grupo. También permite crear páginas web a partir de los archivos allí alojados. Aquí explico los pasos para construir todo esto.
 
 
 
-<a href="https://clavedecodigo.github.io/virtualbox/"><img src="enlace.png" alt="Clave de código" style="float:right"></a>
+<a href="https://cuadernosdenotas.github.io/virtualbox/"><img src="enlace.png" alt="Cuadernos de notas" style="float:right"></a>
 ## creando una máquina virtual
 
 ¿Quieres tener un rincón en tu ordenador personal para experimentar sin poner todo el equipo patas arriba? ¿Quieres probar un sistema operativo sin desinstalar el tuyo? Crea una máquina virtual. Aquí explico como lo hago yo con un software llamado *VirtualBox*.
 
 
-<a href="https://clavedecodigo.github.io/instalarmint/"><img src="enlace.png" alt="Clave de código" style="float:right"></a>
+<a href="https://cuadernosdenotas.github.io/instalarmint/"><img src="enlace.png" alt="Cuadernos de notas" style="float:right"></a>
 ## instalando Linux
 
 En este cuaderno hablamos de lo que es Linux y como instalarlo en nuestro ordenador. Utilizo una de las versiones más populares: *Linux Mint*.
