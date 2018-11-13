@@ -29,7 +29,7 @@ En este cuaderno hablamos de lo que es Linux y como instalarlo en nuestro ordena
 ## acerca de todo esto
 Tras una larga trayectoria profesional utilizando tecnologías para el tratamiento de la información, he ido desarrollando una cierta curiosidad por conocer el mundo de la programación y los ordenadores. Con el paso del tiempo esto te lleva a acumular nociones sobre todo tipo de herramientas, algunas de las cuales van quedando obsoletas, y se me ocurre que estaría bien organizar un poco mis notas.
 
-Este sitio no tiene propósito divulgativo alguno. Es un experimento personal que me sirve para aprender, y reunir mis notas.
+Este sitio no tiene propósito divulgativo alguno. Es un experimento personal que me sirve para aprender y reunir mis notas.
 
 Mis intereses va en una doble dirección. Por un lado, me gusta explorar el mundo de las herramientas *open source* y el sistema operativo *Linux*. Por otro lado me pasa lo que a mucha gente, que en el trabajo y en nuestro ámbito doméstico solemos estar en contacto con windows, mac o android, por ejemplo. Por eso suelo fijarme más bien en software que sirva para todo tipo de plataformas. Un ejemplo es el proyecto *LibreOffice*, que proporciona diversas herramientas ofimáticas, procesadores de texto, hojas de cálculo, etc, desarrolladas como proyecto comunitario para diferentes sistemas operativos.
 
