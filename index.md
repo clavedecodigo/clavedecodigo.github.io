@@ -19,7 +19,7 @@ Bienvenido a mi colección de cuadernos. Para acceder a uno de ellos, pulsa sobr
 ¿Quieres tener un rincón en tu ordenador personal para experimentar sin poner todo el equipo patas arriba? ¿Quieres probar un sistema operativo sin desinstalar el tuyo? Crea una máquina virtual. Aquí explico como lo hago yo con un software llamado *VirtualBox*.
 
 
-<a href="https://cuadernosdenotas.github.io/instalarmint/"><img src="enlace.png" alt="Cuadernos de notas" style="float:right"></a>
+<a href="https://cuadernosdenotas.github.io/linuxmint/"><img src="enlace.png" alt="Cuadernos de notas" style="float:right"></a>
 ## instalando Linux
 
 En este cuaderno hablamos de lo que es Linux y como instalarlo en nuestro ordenador. Utilizo una de las versiones más populares: *Linux Mint*.
