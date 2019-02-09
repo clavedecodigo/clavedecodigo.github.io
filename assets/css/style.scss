@@ -11,8 +11,10 @@ h2 { background-image: none;}
 }
 
 #botongithub {
+    display: block;
+    position: absolute;
+    top: 10px;
     z-index: 10;
-    float: right;
     padding: 10px 50px 10px 10px;
     color: white;
     background: url(../images/blacktocat.png) grey no-repeat 95% 50%;
@@ -26,11 +28,13 @@ h2 { background-image: none;}
 }
 
 #botonblog {
+    display: block;
+    position: absolute;
+    top: 10px;
     z-index: 10;
-    float: right;
     padding: 10px 50px 10px 10px;
     color: white;
-    background: grey;
+    background: url(../images/blacktocat.png) grey no-repeat 95% 50%;
     font-weight: 700;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     border-bottom-left-radius: 10px;
